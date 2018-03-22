@@ -6,10 +6,10 @@ while i < array.length
   yield(array[i])
   i = i + 1
  end
- array 
- else 
+ array
+ else
    puts "Hey! No block was given!"
  end
-end 
+end
 
 # call your method here!
